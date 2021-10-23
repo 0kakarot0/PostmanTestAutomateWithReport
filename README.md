@@ -1,1 +1,3 @@
 # PostmanTestAutomateWithReport
+
+checkpush
